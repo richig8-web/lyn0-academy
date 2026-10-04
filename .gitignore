@@ -1,0 +1,10 @@
+# installer / editor leftovers
+__pycache__/
+*.py[cod]
+*.bak
+backups/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
