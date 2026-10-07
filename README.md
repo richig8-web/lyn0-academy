@@ -84,6 +84,10 @@ its own work. Mission 01 is the part everything else assumes.
 
 Missions 02 to 12 ship weekly. Mission 01 stays free.
 
+One piece of week 2 is free on its own, because it is useful even if you never open the pack:
+[`hermes-memory-audit`](https://github.com/richig8-web/hermes-memory-audit) reads both memory
+files, prints every entry against its character budget, and flags what is rotting.
+
 ---
 
 ## Feedback wanted
