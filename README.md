@@ -84,6 +84,10 @@ its own work. Mission 01 is the part everything else assumes.
 
 Missions 02 to 12 ship weekly. Mission 01 stays free.
 
+**Week 2 is out: [Mission 02 — memory that survives](https://richig8-web.github.io/lyn0-memory-pack/),
+$9, one payment.** A memory file the agent writes itself, the rules for what goes in it, and a
+review skill that proposes a diff before it changes anything. It assumes you finished week 1.
+
 One piece of week 2 is free on its own, because it is useful even if you never open the pack:
 [`hermes-memory-audit`](https://github.com/richig8-web/hermes-memory-audit) reads both memory
 files, prints every entry against its character budget, and flags what is rotting.

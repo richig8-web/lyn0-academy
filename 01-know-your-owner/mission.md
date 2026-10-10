@@ -136,6 +136,10 @@ Right now your AI knows what you *told* it in a file. Week 2 teaches it to remem
 want in a month. That's the difference between an AI that knows you and an AI that has a
 history with you.
 
+The pack is out now at **$9, one payment**: [Mission 02 — memory that
+survives](https://richig8-web.github.io/lyn0-memory-pack/). The memory audit script is free
+either way: [`hermes-memory-audit`](https://github.com/richig8-web/hermes-memory-audit).
+
 ---
 
 ## Support
