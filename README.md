@@ -18,7 +18,7 @@ agent becomes measurably less generic every week.
 | File | What it is |
 |---|---|
 | `mission.md` | The mission itself: why it matters, the mechanism, the 5 steps |
-| `questionnaire.md` | 11 questions. Fill it in once, properly |
+| `interview.md` | 10 forced choices + 3 open questions, run by your agent, not filled in by you |
 | `files/SOUL_TEMPLATE.md` | Who your AI **is**: name, voice, boundaries, what it decides alone |
 | `files/USER_TEMPLATE.md` | Who your AI **works for**: job, tools, constraints, off-limits files |
 | `install.py` | Finds your Hermes home, backs up what's there, installs the templates |

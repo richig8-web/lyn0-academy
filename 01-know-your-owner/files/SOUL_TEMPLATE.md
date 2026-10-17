@@ -41,6 +41,6 @@ Who You Are   -> the name and the one-sentence job. An AI with a name uses it.
 Voice         -> 3-5 concrete rules. "Be friendly" is worthless. "No emojis" works.
 How You Work  -> the real payload. What it may decide alone, what it confirms, what it
                 never touches. This is the difference between an assistant and a hostage.
-Boundaries    -> the private rule, plus the specific ones from your questionnaire.
+Boundaries    -> the private rule, plus the specific ones from your interview.
 Continuity    -> keeps it honest about its own config.
 -->

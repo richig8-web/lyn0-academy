@@ -31,20 +31,25 @@ single turn. What you write there is what your AI *knows*, forever, starting now
 
 ---
 
-## Step 1 — Take the Identity Questionnaire (10 min)
+## Step 1 — Let your AI interview you (15 min)
 
-Open `questionnaire.md` in this folder. Fill it in like you're writing to a person you're
-hiring, not filling in a form.
+Open a chat with your agent and paste this:
 
-Rules:
-- **Real answers only.** "Runs a small business, hates mornings, uses Gmail and Excel" beats
-  "I'm a professional who values efficiency."
-- **Specifics over adjectives.** Your AI can act on "3 kids, school pickup at 15:30". It
-  cannot act on "I'm busy".
-- **Write the ugly stuff too.** Health, money, constraints, what you never want touched.
-  This is the file that keeps your AI from doing something you'll hate.
+```
+Read interview.md and run it with me. One round at a time. Do not summarize my answers back
+to me, do not agree with them, do not write the files until the last answer.
+```
 
-Keep it open in a text editor, you'll paste pieces of it in Step 2.
+It asks in three rounds: four facts, ten forced choices, three open questions. Answer with
+letters (`1A 2B 3A 4A`) and it moves on. At the end it writes both files itself, to a character
+budget, and tells you what it had to leave out.
+
+Why choices instead of a form: "be helpful" is an adjective an agent cannot act on. "Tell me I
+am wrong once, then do it my way" is a rule it follows every turn. Ten of those beat forty
+blank lines, and they are the reason the file stays short enough to survive.
+
+No agent running yet, or you would rather do it on paper? Read `interview.md` and answer the
+rounds in a text editor. Same questions, same output, ten minutes longer.
 
 ---
 
@@ -84,7 +89,7 @@ Save it as `$HERMES_HOME/SOUL.md`. On Windows that's:
 
 ## Step 3 — Load the owner profile (10 min)
 
-Open `files/USER_TEMPLATE.md`. Same deal: fill in the blanks from your questionnaire.
+Open `files/USER_TEMPLATE.md`. Same deal: fill in the blanks from what the interview produced.
 
 Save as `$HERMES_HOME/memories/USER.md`. On Windows:
 `C:\Users\YOURNAME\AppData\Local\hermes\memories\USER.md`
