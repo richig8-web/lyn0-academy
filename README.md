@@ -31,7 +31,7 @@ agent becomes measurably less generic every week.
 ```bash
 cd 01-know-your-owner
 python install.py            # installs SOUL.md and memories/USER.md
-# now edit both files and replace every ___ with your own answers
+# then let your agent run interview.md, or fill the blanks yourself
 python install.py --check    # tells you what's still blank or missing
 ```
 

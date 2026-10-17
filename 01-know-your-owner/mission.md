@@ -55,7 +55,11 @@ rounds in a text editor. Same questions, same output, ten minutes longer.
 
 ## Step 2 — Write your AI's soul (15 min)
 
-Open `files/SOUL_TEMPLATE.md` in a text editor. Every line with `___` is yours to write.
+If your agent ran the interview, it already wrote this file. Open it, read it as a stranger
+would, and cut any rule you would not defend out loud. That edit is the step.
+
+Doing it by hand? Open `files/SOUL_TEMPLATE.md` in a text editor. Every line with `___` is
+yours to write.
 
 The minimum viable version is three lines:
 
