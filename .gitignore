@@ -8,3 +8,7 @@ backups/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# dati personali del test (profilo di Riccardo): mai nel repo pubblico
+01-know-your-owner/SOUL.md
+01-know-your-owner/USER.md
