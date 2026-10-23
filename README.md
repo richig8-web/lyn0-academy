@@ -23,6 +23,7 @@ agent becomes measurably less generic every week.
 | `files/USER_TEMPLATE.md` | Who your AI **works for**: job, tools, constraints, off-limits files |
 | `install.py` | Finds your Hermes home, backs up what's there, installs the templates |
 | `test.md` | 6 checks to run in a **fresh session**, so you know it loaded on its own |
+| `NEXT.md` | What week 2 adds, and the free audit script to check your memory files |
 
 **Time:** about 45 minutes, once.
 
