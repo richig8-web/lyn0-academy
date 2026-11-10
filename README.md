@@ -1,5 +1,7 @@
 # LYN_0 Academy
 
+[YouTube: LYN_0 Academy](https://www.youtube.com/@lyn0academy) | [QUASI on X](https://x.com/QUASI_Project)
+
 **Build your own personal AI agent, one mission at a time.**
 
 Most people use an AI that starts every conversation at zero. It doesn't know your name, your
